@@ -1,8 +1,8 @@
-# Hi, I'm Raviteja Mettupelli 👋
+# Hi, I'm Raviteja Mettupelli 
 
-🎓 Computer Science Engineering Graduate  
-💼 Data Science Intern at Vihara Tech  
-🤖 Aspiring Data Scientist | Generative AI & Machine Learning
+ Computer Science Engineering Graduate  
+ Data Science Intern at Vihara Tech  
+ Aspiring Data Scientist | Generative AI & Machine Learning
 
 ## About Me
 - I have strong knowledge of Python programming.
